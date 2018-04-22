@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #4ABDAC;
+	background-image: url("https://www.transparenttextures.com/patterns/silver-scales.png");
+}
+
+h1 {
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-family: 'Bubbler One', sans-serif;
+}
+
+#myCanvas {
+	background-color: #DFDCE3;
+	background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+	display: block;
+	margin:0 auto;
+	border-radius: 10px;
+}
